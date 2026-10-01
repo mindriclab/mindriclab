@@ -14,6 +14,7 @@ I build software and AI-driven workflows, mostly solo, with tools like Claude Co
 
 | | |
 |---|---|
+| [dunklerstern](https://github.com/mindriclab/dunklerstern) | Interactive site about black holes with a live WebGL raytracer and an Interstellar fact check, [dunklerstern.de](https://dunklerstern.de) |
 | [traumfaenger](https://github.com/mindriclab/traumfaenger) | AI dream journal, local-first, one codebase for web, mobile and desktop |
 | [comfydeck](https://github.com/mindriclab/comfydeck) | Clean prompt-in, image-out studio in front of ComfyUI |
 | [prompt-expert](https://github.com/mindriclab/prompt-expert) | Local prompt workshop for image and video generators, one target profile per model |
