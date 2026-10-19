@@ -20,7 +20,6 @@ I build software and AI-driven workflows, mostly solo, with tools like Claude Co
 | [voicenote-lab](https://github.com/mindriclab/voicenote-lab) | Press a hotkey, speak, get clean notes, emails or to-dos (Gemini, OpenAI, Claude) |
 | [x5-field-companion](https://github.com/mindriclab/x5-field-companion) | Offline guide and setup planner for the Insta360 X5, free |
 | [realtime-tools](https://github.com/mindriclab/realtime-tools) | 39 live-data tools about our world, one HTML page |
-| [vid4me](https://github.com/mindriclab/vid4me) | Local image and video generation app, archived |
 
 Website: [mindriclab.de](https://www.mindriclab.de) · Tools for sale: [Gumroad](https://mindriclab.gumroad.com) · Mail: contact@mindriclab.de
 
