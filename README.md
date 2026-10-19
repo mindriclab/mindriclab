@@ -16,12 +16,11 @@ I build software and AI-driven workflows, mostly solo, with tools like Claude Co
 |---|---|
 | [dunklerstern](https://github.com/mindriclab/dunklerstern) | Interactive site about black holes with a live WebGL raytracer and an Interstellar fact check, [dunklerstern.de](https://dunklerstern.de) |
 | [traumfaenger](https://github.com/mindriclab/traumfaenger) | AI dream journal, local-first, one codebase for web, mobile and desktop |
-| [comfydeck](https://github.com/mindriclab/comfydeck) | Clean prompt-in, image-out studio in front of ComfyUI |
 | [prompt-expert](https://github.com/mindriclab/prompt-expert) | Local prompt workshop for image and video generators, one target profile per model |
-| [voice-intel](https://github.com/mindriclab/voice-intel) | Hotkey voice recorder that transcribes and structures what you said |
+| [voicenote-lab](https://github.com/mindriclab/voicenote-lab) | Press a hotkey, speak, get clean notes, emails or to-dos (Gemini, OpenAI, Claude) |
 | [x5-field-companion](https://github.com/mindriclab/x5-field-companion) | Offline guide and setup planner for the Insta360 X5, free |
 | [realtime-tools](https://github.com/mindriclab/realtime-tools) | 39 live-data tools about our world, one HTML page |
-| [vid4me](https://github.com/mindriclab/vid4me) | Local image and video generation app, archived in favour of ComfyDeck |
+| [vid4me](https://github.com/mindriclab/vid4me) | Local image and video generation app, archived |
 
 Website: [mindriclab.de](https://www.mindriclab.de) · Tools for sale: [Gumroad](https://mindriclab.gumroad.com) · Mail: contact@mindriclab.de
 
