@@ -19,6 +19,7 @@ I build software and AI-driven workflows, mostly solo, with tools like Claude Co
 | [prompt-expert](https://github.com/mindriclab/prompt-expert) | Local prompt workshop for image and video generators, one target profile per model |
 | [voicenote-lab](https://github.com/mindriclab/voicenote-lab) | Press a hotkey, speak, get clean notes, emails or to-dos (Gemini, OpenAI, Claude) |
 | [x5-field-companion](https://github.com/mindriclab/x5-field-companion) | Offline guide and setup planner for the Insta360 X5, free |
+| [3d-cost-manager](https://github.com/mindriclab/3d-cost-manager) | Cost calculator for 3D prints with quote PDF, offline, free |
 | [realtime-tools](https://github.com/mindriclab/realtime-tools) | 39 live-data tools about our world, one HTML page |
 
 Website: [mindriclab.de](https://www.mindriclab.de) · Tools for sale: [Gumroad](https://mindriclab.gumroad.com) · Mail: contact@mindriclab.de
