@@ -24,4 +24,6 @@ I build software and AI-driven workflows, mostly solo, with tools like Claude Co
 
 Website: [mindriclab.de](https://www.mindriclab.de) · Tools for sale: [Gumroad](https://mindriclab.gumroad.com) · Mail: contact@mindriclab.de
 
+Also on: [Facebook](https://www.facebook.com/rico.herrmann.mindriclab) · [Instagram](https://www.instagram.com/mindriclab/) · [YouTube](https://www.youtube.com/@mindriclab)
+
 Open for selected freelance work, case by case.
